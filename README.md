@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @WCC981212
-- 👀 I’m interested in Web Developmwnt
-- 🌱 I’m currently learning HTML, CSS, JS
+- 👋 Hi, I’m Wong Chui Ching
+- 👀 I’m interested in Software Programming, Data and Math
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on anything programming skill
 - 📫 How to reach me:
 email: wongchuiching98@gmail.com
